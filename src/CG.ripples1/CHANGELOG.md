@@ -11,4 +11,4 @@
 - bugs that are fixed
 
 ## Authors
-**[Sang.ch.Hsu](/profile/101708293477212917182@google)**
+**[lazyyyhsu](https://github.com/lazy1106)**
