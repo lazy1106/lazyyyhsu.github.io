@@ -16,4 +16,4 @@ function examples() {
 ```
 
 ## Authors
-**[Haskasu](/profile/Haskasu)**
+**[lazyyyhsu](https://github.com/lazy1106)**
